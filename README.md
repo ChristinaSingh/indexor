@@ -1,4 +1,4 @@
-# Headless AI RAG Agent — Phase 1
+# indexor AI RAG Agent — Phase 1
 
 ## Quickstart
 
