@@ -15,7 +15,7 @@ def get_status():
     logger.info("Status endpoint called")
 
     # Define which env keys we consider "required" for proper configuration beyond phase 1.
-    # For Phase 1 we only require API_KEY to authenticate; the client expects missing SOURCE_SYSTEM to be reported as not_configured.
+    # For Phase 1 we only require API_KEY to authenticate;  expects missing SOURCE_SYSTEM to be reported as not_configured.
     required_for_operation = [settings.source_system, settings.openrouter_key]
 
     # If any of the required future keys are missing/empty, report not_configured.
