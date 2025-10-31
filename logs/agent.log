@@ -1,0 +1,9 @@
+2025-10-31 16:31:37.869 | INFO     | app.main:root:14 - Root endpoint called
+2025-10-31 16:32:54.644 | INFO     | app.api.routes.status:get_status:15 - Status endpoint called
+2025-10-31 16:33:00.993 | INFO     | app.main:root:14 - Root endpoint called
+2025-10-31 16:34:34.807 | INFO     | app.main:root:14 - Root endpoint called
+2025-10-31 16:36:57.834 | INFO     | app.api.routes.status:get_status:15 - Status endpoint called
+2025-10-31 16:37:35.960 | INFO     | app.main:root:14 - Root endpoint called
+2025-10-31 16:37:58.869 | INFO     | app.api.routes.status:get_status:15 - Status endpoint called
+2025-10-31 17:27:23.241 | INFO     | app.main:root:14 - Root endpoint called
+2025-10-31 17:27:53.175 | INFO     | app.api.routes.status:get_status:15 - Status endpoint called
